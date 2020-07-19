@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+}
+
+#heading {
+    width: 100%;
+    height: 80vh;
+    background-color: #f0fff0;
+}
+.navbar {
+    position: relative;
+    top: 15px;
+    margin-bottom: 70px;
+}
+.logo {
+    width: 40vh;
+    height: 10vh;
+}
+.navbar-nav li {
+    margin: 0px 15px;
+}
+
+.navbar-nav li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.common-btn {
+    background-color: #21b573;
+    padding: 15px 28px;
+    border-radius: 33px;
+    position: relative;
+    top: -5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+h2 {
+    font-weight: 700;
+}
+.h2-1 {
+    margin-bottom: 60px;
+}
+.common-btn:hover {
+    text-decoration: none;
+    color: white;
+    background-color: #1b8f5b;
+}
+.navbar-nav li:last-child a {
+    text-decoration: none;
+    padding: 1px 20px;
+    color: white;
+    font-weight: 600;
+}
+
+.header-text {
+    margin-top: 10vh;
+}
+#about {
+    margin-top: 30px;
+}
+.info {
+    width: 150px;
+    height: 220px;
+    text-align: center;
+}
+
+.info img {
+    width: 66px;
+    height: 85px;
+    margin: 10px 0px;
+}
+#courses {
+    margin: 20px;
+}
+.card-foot {
+    margin-top: 20px;
+}
+.start img {
+    width: 20px;
+    float: left;
+}
+.seats img {
+    width: 20px;
+    float: left;
+}
+
+.test-img img {
+    width: 120px;
+    height: 120px;
+    float: right;
+}
+.test-p {
+    float: left;
+}
+.test {
+    margin: 40px 0px;
+}
+#useful-information {
+    background-color: #282531;
+    color: white;
+    width: 100%;
+    height: 300px;
+}
+.common-class {
+    position: relative;
+    right: -70px;
+}
+h6 {
+    position: relative;
+    bottom: -30px;
+}
+footer {
+    position: relative;
+    bottom: -30px;
+}
